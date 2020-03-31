@@ -1,0 +1,13 @@
+created users :
+
+vilgenis@transport.fr
+phoebe.buffet@gmail.com
+
+mdp for all:
+Vilg3nis@
+
+
+email for fake sendmail :
+VilgenisCityTransport@gmail.com
+bday for email account :
+22-02-87
